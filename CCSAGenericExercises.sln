@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1_2", "Exercise1_2\Exercise1_2.csproj", "{55BA58EB-58D3-4C5E-B33B-F019F5994014}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCSASchoolRepoProject", "CCSASchoolRepoProject\CCSASchoolRepoProject.csproj", "{BE4A33D7-4353-47B0-B891-394B3C5E0050}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{55BA58EB-58D3-4C5E-B33B-F019F5994014}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55BA58EB-58D3-4C5E-B33B-F019F5994014}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55BA58EB-58D3-4C5E-B33B-F019F5994014}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE4A33D7-4353-47B0-B891-394B3C5E0050}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE4A33D7-4353-47B0-B891-394B3C5E0050}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE4A33D7-4353-47B0-B891-394B3C5E0050}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE4A33D7-4353-47B0-B891-394B3C5E0050}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
